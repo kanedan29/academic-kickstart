@@ -44,7 +44,7 @@ interests = [
 [[social]]
   icon = "envelope"
   icon_pack = "fas"
-  link = "mailto:daniel.kane@yale.edu".
+  link = "mailto:daniel.kane@yale.edu"
 
 [[social]]
   icon = "twitter"
