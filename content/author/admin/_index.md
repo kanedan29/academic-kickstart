@@ -70,6 +70,4 @@ interests = [
 
 +++
 
-Hi! I’m a Ph.D. student in the School of Forestry and Environmental Studies at Yale University researching soil carbon/nitrogen cycles and the links between agriculture and climate change.
-
-My research focuses on rapid quantification of soil carbon at landscape scales, how and where soil organic matter could be managed to mitigate the effects of climate change on agricultural productivity, and the mechanisms by which carbon becomes stabilized in soils. I am working to develop a protocol to rapidly estimate soil carbon on rangelands using VIS/NIR technology and geospatial statistical techniques.
+I’m a Ph.D. student in the School of Forestry and Environmental Studies at Yale University in Dr. Mark Bradford's lab. My research focuses on rapid quantification of soil carbon at landscape scales, how and where soil organic matter could be managed to mitigate the effects of climate change on agricultural productivity, and the mechanisms by which carbon becomes stabilized in soils. I am the lead researcher on Quick Carbon (www.quickcarbon.org).
