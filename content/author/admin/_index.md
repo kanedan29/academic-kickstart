@@ -10,10 +10,10 @@ role = "Ph.D. Student"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "Yale University", url = "" } ]
+organizations = [ { name = "Yale School of the Environment", url = "" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "I study soil, agriculture, and climate change."
+bio = "I study soil carbon, agriculture, and climate change."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = ""
@@ -21,8 +21,9 @@ email = ""
 # List (academic) interests or hobbies
 interests = [
   "Soil",
-  "Agricultural Ecology",
-  "Environmental Data Science"
+  "Environmental data science",
+  "Climate change",
+  "Natural climate solutions"
 ]
 
 # List qualifications (such as academic degrees)
@@ -46,10 +47,10 @@ interests = [
   icon_pack = "fas"
   link = "mailto:daniel.kane@yale.edu"
 
-[[social]]
-  icon = "twitter"
-  icon_pack = "fab"
-  link = "https://twitter.com/kanedan29"
+# [[social]]
+#   icon = "twitter"
+#   icon_pack = "fab"
+#   link = "https://twitter.com/kanedan29"
 
 [[social]]
   icon = "google-scholar"
@@ -63,11 +64,11 @@ interests = [
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# [[social]]
-#   icon = "cv"
-#   icon_pack = "ai"
-#   link = "files/cv.pdf"
+[[social]]
+  icon = "cv"
+  icon_pack = "ai"
+  link = "files/cv.pdf"
 
 +++
 
-I’m a Ph.D. student in the School of Forestry and Environmental Studies at Yale University in Dr. Mark Bradford's lab. My research focuses on rapid quantification of soil carbon at landscape scales, how and where soil organic matter could be managed to mitigate the effects of climate change on agricultural productivity, and the mechanisms by which carbon becomes stabilized in soils. I am the lead researcher on Quick Carbon (www.quickcarbon.org).
+I’m a Ph.D. candidate at the Yale School of the Environment in Dr. Mark Bradford's lab. My research focuses on rapid quantification of soil carbon at landscape scales and how soil carbon supports resilient agriculture systems. I am the lead researcher on Quick Carbon (www.quickcarbon.org).
