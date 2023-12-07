@@ -6,11 +6,11 @@ name = "Dan Kane"
 superuser = true
 
 # Role/position
-role = "Ph.D. Student"
+#role = "Ph.D. Student"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "Yale School of the Environment", url = "" } ]
+#organizations = [ { name = "Yale School of the Environment", url = "" } ]
 
 # Short bio (displayed in user profile at end of posts)
 bio = "I study soil carbon, agriculture, and climate change."
@@ -27,6 +27,11 @@ interests = [
 ]
 
 # List qualifications (such as academic degrees)
+[[education.courses]]
+  course = "Ph.D. in Environmental Sciences"
+  institution = "Yale School of the Environment"
+  year = 2013
+  
 [[education.courses]]
   course = "M.S. in Plant, Soil, and Microbial Sciences"
   institution = "Michigan State University"
@@ -45,7 +50,7 @@ interests = [
 [[social]]
   icon = "envelope"
   icon_pack = "fas"
-  link = "mailto:daniel.kane@yale.edu"
+  link = "mailto:kanedan29@gmail.com"
 
 # [[social]]
 #   icon = "twitter"
@@ -64,11 +69,11 @@ interests = [
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-[[social]]
-  icon = "cv"
-  icon_pack = "ai"
-  link = "files/cv.pdf"
+#[[social]]
+#  icon = "cv"
+#  icon_pack = "ai"
+#  link = "files/cv.pdf"
 
 +++
 
-I’m a Ph.D. candidate at the Yale School of the Environment in Dr. Mark Bradford's lab. My research focuses on rapid quantification of soil carbon at landscape scales and how soil carbon supports resilient agriculture systems. I am the lead researcher on Quick Carbon (www.quickcarbon.org).
+I'm a soil scientist and agricultural ecologist working on natural climate solutions through soil carbon sequestration. 
